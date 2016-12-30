@@ -1,0 +1,10 @@
+1) De Jong's function:
+f(x, y) = x**2+2*y**2
+2)Rosenbrock’s valley:
+f(x, y) = 100*(y-x**2)**2+(1-x)**2
+3)Rastrigin’s function:
+f(x, y) = 10.2+(x**2-10*cos(2*(22/7)*x))+(y**2-10*cos(2*(22/7)*y))
+4)Easom’s function:
+f(x, y) =-cos(x)*cos(y)*exp(-(x-(22/7))**2-(y-(22/7))**2)
+5)Branins’s function:
+f(x, y)=1*(y-((5.1/(4*(22/7)**2))*x**2)+((5/(22/7))*x)-6)**2+10*(1-(1/(8*(22/7))))*cos(x)+10 
