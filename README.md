@@ -22,8 +22,3 @@ This project objective was to illustrate various optimization techniques using p
 ![Picture](http://i.imgur.com/FvhBVib.png)
 ![Picture](http://i.imgur.com/LjuAH1I.png)
 ![Picture](http://i.imgur.com/N4DtpcU.png)
-
-# Team Members
-1) Yehia Arafa <yehiaarafa11@gmail.com>
-
-2) Ali Rashad <Ali.mrashad@hotmail.com>
